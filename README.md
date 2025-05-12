@@ -23,15 +23,15 @@ Can be upgraded with AI, GPS, automated flight control, and computer vision for 
 Useful for urban, forest, and industrial fire scenarios.
 
 ## Hardware Components
-Arduino Uno	1	Main flight controller of the drone
-Arduino Nano	2	One for transmitter (remote controller), one for onboard receiver system
-NRF24L01 Module	2	2.4GHz transceiver modules for wireless communication
-MPU6050	1	6-axis gyroscope and accelerometer for orientation control
-ESCs + Brushless Motors	4	For quadcopter movement and control
-Li-Po Battery	1	Power source for motors and electronics
-Propellers	4	For drone lift and maneuvering
-Flame Sensor (optional)	1+	To detect fire/heat sources
-Frame	1	Lightweight frame to mount all components
+1.Arduino Uno	1	Main flight controller of the drone 
+2.Arduino Nano	2	One for transmitter (remote controller), one for onboard receiver system
+3.NRF24L01 Module	2	2.4GHz transceiver modules for wireless communication
+4.MPU6050	1	6-axis gyroscope and accelerometer for orientation control
+5.ESCs + Brushless Motors	4	For quadcopter movement and control
+6'Li-Po Battery	1	Power source for motors and electronics
+7.Propellers	4	For drone lift and maneuvering
+8.Flame Sensor (optional)	1+	To detect fire/heat sources
+9.Frame	1	Lightweight frame to mount all components
 
 ## System Architecture
 1. Drone Side (Receiver + Flight Control)
