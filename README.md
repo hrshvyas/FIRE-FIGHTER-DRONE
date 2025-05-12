@@ -83,5 +83,5 @@ GPS module for autonomous navigation and return-to-home function.
 
 
 ## Authors & Credits
-Developed by: [Your Name or Team Name]
+Developed by: [Harshwardhan Patil]
 Inspired by open-source drone communities and educational robotics projects.
